@@ -1,1 +1,1 @@
-![FOTO](images/nama_gambar.png)
+![FOTO](images/FOTO.png)
